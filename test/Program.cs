@@ -14,6 +14,18 @@ namespace test
             Console.WriteLine("Hello word!");
            
             Console.ReadKey();
+            Console.ReadKey();Console.WriteLine("Hello word!");
+           
+            Console.ReadKey();
+            Console.ReadKey();Console.WriteLine("Hello word!");
+           
+            Console.ReadKey();
+            Console.ReadKey();Console.WriteLine("Hello word!");
+           
+            Console.ReadKey();
+            Console.ReadKey();Console.WriteLine("Hello word!");
+           
+            Console.ReadKey();
             Console.ReadKey();
         }
     }
