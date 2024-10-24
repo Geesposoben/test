@@ -12,6 +12,8 @@ namespace test
         {
 
             Console.WriteLine("Hello word!");
+           
+            Console.ReadKey();
             Console.ReadKey();
         }
     }
